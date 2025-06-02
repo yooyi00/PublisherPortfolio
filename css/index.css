@@ -182,10 +182,10 @@ body {
   .intro .intro_inner .left .picture {
     width: 60%;
     height: 90%;
-    max-width: 350px;
-    max-height: 400px;
+    max-width: 300px;
+    max-height: 350px;
     min-width: 250px;
-    min-height: 430px;
+    min-height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -207,7 +207,7 @@ body {
 
   /*svg*/
   #Layer_1 {
-    padding-top: 25px;
+    padding-top: 15px;
     margin: 0 1vw;
     box-sizing: border-box;
   }
@@ -1172,12 +1172,12 @@ body {
 
   /*picture*/
   .intro .intro_inner .left .picture {
-    width: 60%;
-    height: 90%;
+    width: 80%;
+    height: 50%;
     max-width: 300px;
-    max-height: 350px;
+    max-height: 500px;
     min-width: 250px;
-    min-height: 300px;
+    min-height: 500px;
     display: flex;
     flex-direction: column;
     justify-content: center;
