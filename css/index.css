@@ -1172,12 +1172,12 @@ body {
 
   /*picture*/
   .intro .intro_inner .left .picture {
-    width: 80%;
-    height: 50%;
+    width: 60%;
+    height: 90%;
     max-width: 300px;
-    max-height: 500px;
+    max-height: 350px;
     min-width: 250px;
-    min-height: 500px;
+    min-height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
